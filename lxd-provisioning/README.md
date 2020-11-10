@@ -35,7 +35,7 @@ $ lxc launch images:centos/7 kmaster --profile k8s
 Creating kmaster
 Starting kmaster
 
-$ launch images:centos/7 kworker1 --profile k8s
+$ lxc launch images:centos/7 kworker1 --profile k8s
 Creating kworker1
 Starting kworker1
 
